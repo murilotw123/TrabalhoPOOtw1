@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\trabalho_POO\\trabalho_POO\\trabalho_POO.csproj": {}
+    "C:\\Users\\Usuario\\source\\repos\\trabalho_POO\\TrabalhoPOOtw1\\trabalho_POO\\trabalho_POO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\trabalho_POO\\trabalho_POO\\trabalho_POO.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\trabalho_POO\\TrabalhoPOOtw1\\trabalho_POO\\trabalho_POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\trabalho_POO\\trabalho_POO\\trabalho_POO.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\trabalho_POO\\TrabalhoPOOtw1\\trabalho_POO\\trabalho_POO.csproj",
         "projectName": "trabalho_POO",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\trabalho_POO\\trabalho_POO\\trabalho_POO.csproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\trabalho_POO\\TrabalhoPOOtw1\\trabalho_POO\\trabalho_POO.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\trabalho_POO\\trabalho_POO\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\trabalho_POO\\TrabalhoPOOtw1\\trabalho_POO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
