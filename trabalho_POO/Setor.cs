@@ -14,15 +14,13 @@ namespace trabalho_POO
 
         public Setor() { }
 
-      /*  public void CadastrarSetor()
+        public void LerDadosSetor()
         {
-            Console.WriteLine("O Nome desse Setor é: ");
+            Console.WriteLine("Qual o nome do setor: ");
             Nome = Console.ReadLine();
-            Console.WriteLine("A Sigla desse Setor é: ");
+            Console.WriteLine("Qual a sigla desse setor: ");
             Sigla = Console.ReadLine();
-            Console.WriteLine("O Chefe desse Setor é: ");
-            Chefe = (Console.ReadLine());
-        }*/
+        }
         public void MostrarDados()
         {
             Console.WriteLine($"O Setor Desse funcionario é: {Nome}");

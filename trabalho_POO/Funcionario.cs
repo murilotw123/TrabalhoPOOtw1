@@ -16,6 +16,17 @@ namespace trabalho_POO
 
         public Funcionario() { }
 
+        public void LerDadosFunc()
+        {
+            Console.WriteLine("Qual o nome do funcionario: ");
+            Nome = Console.ReadLine();
+            Console.WriteLine("Qual o endereço do funcionario: ");
+            Endereco = Console.ReadLine();
+            Console.WriteLine("Qual O Telefone desse funcionario: ");
+            Telefone = Console.ReadLine();
+
+        }
+
         public void MostrarDados()
         {
             Console.WriteLine($"O Nome do funcionario é: {Nome}");
