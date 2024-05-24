@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\trabalho_POO\trabalho_POO\obj\Debug\net8.0\trabalho_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\trabalho_POO\trabalho_POO\obj\Debug\net8.0\trabalho_POO.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\trabalho_POO\trabalho_POO\obj\Debug\net8.0\trabalho_POO.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\trabalho_POO\trabalho_POO\obj\Debug\net8.0\trabalho_POO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\trabalho_POO\trabalho_POO\bin\Debug\net8.0\trabalho_POO.exe
+C:\Users\Usuario\source\repos\trabalho_POO\trabalho_POO\bin\Debug\net8.0\trabalho_POO.deps.json
+C:\Users\Usuario\source\repos\trabalho_POO\trabalho_POO\bin\Debug\net8.0\trabalho_POO.runtimeconfig.json
+C:\Users\Usuario\source\repos\trabalho_POO\trabalho_POO\bin\Debug\net8.0\trabalho_POO.dll
+C:\Users\Usuario\source\repos\trabalho_POO\trabalho_POO\bin\Debug\net8.0\trabalho_POO.pdb
+C:\Users\Usuario\source\repos\trabalho_POO\trabalho_POO\obj\Debug\net8.0\trabalho_POO.dll
+C:\Users\Usuario\source\repos\trabalho_POO\trabalho_POO\obj\Debug\net8.0\refint\trabalho_POO.dll
+C:\Users\Usuario\source\repos\trabalho_POO\trabalho_POO\obj\Debug\net8.0\trabalho_POO.pdb
+C:\Users\Usuario\source\repos\trabalho_POO\trabalho_POO\obj\Debug\net8.0\trabalho_POO.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\trabalho_POO\trabalho_POO\obj\Debug\net8.0\ref\trabalho_POO.dll
