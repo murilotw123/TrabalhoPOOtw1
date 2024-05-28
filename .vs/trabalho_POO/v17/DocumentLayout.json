@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\trabalho_POO\\TrabalhoPOOtw1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4BFBBB8-3B14-411F-892B-4FCF524BF74F}|trabalho_POO\\trabalho_POO.csproj|c:\\users\\usuario\\source\\repos\\trabalho_poo\\trabalhopootw1\\trabalho_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BFBBB8-3B14-411F-892B-4FCF524BF74F}|trabalho_POO\\trabalho_POO.csproj|solutionrelative:trabalho_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4BFBBB8-3B14-411F-892B-4FCF524BF74F}|trabalho_POO\\trabalho_POO.csproj|c:\\users\\usuario\\source\\repos\\trabalho_poo\\trabalhopootw1\\trabalho_poo\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BFBBB8-3B14-411F-892B-4FCF524BF74F}|trabalho_POO\\trabalho_POO.csproj|solutionrelative:trabalho_poo\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D4BFBBB8-3B14-411F-892B-4FCF524BF74F}|trabalho_POO\\trabalho_POO.csproj|c:\\users\\usuario\\source\\repos\\trabalho_poo\\trabalhopootw1\\trabalho_poo\\setor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4BFBBB8-3B14-411F-892B-4FCF524BF74F}|trabalho_POO\\trabalho_POO.csproj|solutionrelative:trabalho_poo\\setor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{D4BFBBB8-3B14-411F-892B-4FCF524BF74F}|trabalho_POO\\trabalho_POO.csproj|c:\\users\\usuario\\source\\repos\\trabalho_poo\\trabalhopootw1\\trabalho_poo\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4BFBBB8-3B14-411F-892B-4FCF524BF74F}|trabalho_POO\\trabalho_POO.csproj|solutionrelative:trabalho_poo\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BFBBB8-3B14-411F-892B-4FCF524BF74F}|trabalho_POO\\trabalho_POO.csproj|c:\\users\\usuario\\source\\repos\\trabalho_poo\\trabalhopootw1\\trabalho_poo\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BFBBB8-3B14-411F-892B-4FCF524BF74F}|trabalho_POO\\trabalho_POO.csproj|solutionrelative:trabalho_poo\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BFBBB8-3B14-411F-892B-4FCF524BF74F}|trabalho_POO\\trabalho_POO.csproj|c:\\users\\usuario\\source\\repos\\trabalho_poo\\trabalhopootw1\\trabalho_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BFBBB8-3B14-411F-892B-4FCF524BF74F}|trabalho_POO\\trabalho_POO.csproj|solutionrelative:trabalho_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,37 +30,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\trabalho_POO\\TrabalhoPOOtw1\\trabalho_POO\\Menu.cs",
               "RelativeDocumentMoniker": "trabalho_POO\\Menu.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\trabalho_POO\\TrabalhoPOOtw1\\trabalho_POO\\Menu.cs",
               "RelativeToolTip": "trabalho_POO\\Menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T16:15:08.672Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Setor.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\trabalho_POO\\TrabalhoPOOtw1\\trabalho_POO\\Setor.cs",
               "RelativeDocumentMoniker": "trabalho_POO\\Setor.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\trabalho_POO\\TrabalhoPOOtw1\\trabalho_POO\\Setor.cs",
               "RelativeToolTip": "trabalho_POO\\Setor.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAswBMAAAAMAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T16:07:15.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Cargo.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\trabalho_POO\\TrabalhoPOOtw1\\trabalho_POO\\Cargo.cs",
               "RelativeDocumentMoniker": "trabalho_POO\\Cargo.cs",
@@ -73,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Funcionario.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\trabalho_POO\\TrabalhoPOOtw1\\trabalho_POO\\Funcionario.cs",
               "RelativeDocumentMoniker": "trabalho_POO\\Funcionario.cs",
@@ -86,13 +87,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\trabalho_POO\\TrabalhoPOOtw1\\trabalho_POO\\Program.cs",
               "RelativeDocumentMoniker": "trabalho_POO\\Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\trabalho_POO\\TrabalhoPOOtw1\\trabalho_POO\\Program.cs",
               "RelativeToolTip": "trabalho_POO\\Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAIwAsAAAAKAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwA4AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T16:06:00.146Z",
               "EditorCaption": ""

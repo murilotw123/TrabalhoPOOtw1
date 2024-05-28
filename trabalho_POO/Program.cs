@@ -4,10 +4,7 @@
     {
         static void Main()
         {
-            /*Trabalho do Murilo Moraes De Assis  RA: 20233184 
-                                   E
-                          Pedro Gonçalves Capelin RA:20224348
-             */
+            
 
           
             Cargo cargo = new Cargo();
